@@ -22,5 +22,4 @@ That's it. Open google.com, or simply search from the url bar, search for anythi
 
 Google changes its DOM regularly. If the AI tab reappears after a Google update, the class names may have changed. Open DevTools, inspect the AI Mode button, and update .olrp5b and the surrounding selectors accordingly.  
 
-The -ai operator is blunt! It will also filter results that happen to use the word "ai" naturally (e.g. searches in other languages, proper nouns).  
-For most English searches this is a worthwhile trade-off.
+The -ai operator is blunt! It will also filter results that happen to use the word "ai" naturally (e.g. searches in other languages, proper nouns). For most English searches this is a worthwhile trade-off.
