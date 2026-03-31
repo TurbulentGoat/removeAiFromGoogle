@@ -1,10 +1,10 @@
 # Remove "AI" From Google  
-The internet used to be for finding things. Let's keep it that way.
+The internet used to be for finding real info, and porn. Let's keep it that way.
 
-Fuck "AI"-generated summaries, "AI" Mode tabs, and "AI" Overviews into every search result, replacing real links with machine-generated guesses.  
+Fuck "AI"-generated summaries, "AI" Mode tabs, "AI" Overviews into every search result, replacing real links with machine-generated guesses.  
 
 This Tampermonkey userscript strips the AI Mode tab from the search bar and appends -ai to every query, telling Google's own search operators to filter AI-related results out of your feed.
-No drama. No data collection. Just search results, the way they used to be.
+No hallucinations. No data collection. Just search results, the way they used to be.
 
 # Get Tampermonkey:  
 [Tampermonkey Website](https://www.tampermonkey.net) OR [Chrome Web Store](https://chromewebstore.google.com/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)  
